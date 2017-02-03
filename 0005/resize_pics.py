@@ -2,7 +2,7 @@
 """
 Created on Fri Feb  3 17:34:09 2017
 
-@author: dmall
+@author: Rain Wei
 """
 
 import os
